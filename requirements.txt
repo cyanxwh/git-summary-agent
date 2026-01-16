@@ -1,0 +1,13 @@
+# Core dependencies
+claude-agent-sdk>=0.1.0
+
+# Scheduling (optional, but recommended)
+apscheduler>=3.10.0
+pytz>=2024.1
+
+# Notion integration (optional)
+notion-client>=2.0.0
+
+# For better timezone support in Python 3.9+
+# (not needed if using Python 3.9+ with zoneinfo)
+# tzdata>=2024.1
